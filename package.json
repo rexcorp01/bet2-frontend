@@ -4,7 +4,7 @@
   "description": "Second version of football betting app using new tools",
   "main": "index.js",
   "scripts": {
-        "dev": "next dev -p 3331",
+        "dev": "next dev -p 3999",
     "build": "next build",
     "start": "next start -p $PORT"
   },

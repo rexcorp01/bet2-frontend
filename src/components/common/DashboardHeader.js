@@ -53,7 +53,7 @@ export default function DashBoardHeader(props) {
             className={classes.headerTitle}
             onClick={() => history.push("/app/dashboard")}
           >
-            <Typography variant="h4">Wizow</Typography>
+            <Typography variant="h4">FotBets</Typography>
           </Box>
         </Grid>
       </Grid>

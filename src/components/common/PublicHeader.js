@@ -24,7 +24,7 @@ export default function PublicHeader(props) {
       <Grid container alignItems="center">
         <Grid item xs={12}>
           <div className={classes.headerTitle}>
-            <Typography variant="h6">Wizow</Typography>
+            <Typography variant="h6">FotBets</Typography>
           </div>
         </Grid>
       </Grid>

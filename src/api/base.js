@@ -84,7 +84,7 @@ export const post = async (path, data = {}) => {
 export const postWithAuth = async (path, data = {}) => {
   try {
     const res = await axios.post(url(path), data, {
-      headers: { crossorigin: true, authorization: "wizow" }
+      headers: { crossorigin: true, authorization: "fotbets" }
     });
     return res;
   } catch (error) {
