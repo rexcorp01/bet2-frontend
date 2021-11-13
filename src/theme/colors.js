@@ -1,0 +1,10 @@
+export const primary = "#0073F4";
+// export const secondary = "#00A9F1"
+// export const secondary = "#2676D5";
+export const accent = "#FFF";
+export const secondary = "#F6F7FB";
+// export const bgcolor = "#F9F9FB";
+// export const text = "#434250";
+export const btnColor = "#000"
+export const secondaryText = "#737D87"
+// export const icons = "#F9F9FB";
